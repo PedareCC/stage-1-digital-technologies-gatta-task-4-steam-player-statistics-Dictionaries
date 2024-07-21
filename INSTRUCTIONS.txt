@@ -1,0 +1,6 @@
+You've always loved playing video games so working at a company like STEAM is a dream come true. Imagine how many games you're going to get for free now!
+Not that you need the freebie. You're no junior software engineer anymore. You have a sprawling mansion overlooking the Adelaide hills and cruise to work in a merc each morning.
+
+No, what you need is a challenge.
+
+Freshly hired by STEAM as a senior software engineer, you are tasked with creating a dictionary to keep track of information about players.
